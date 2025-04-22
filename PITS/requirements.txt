@@ -1,0 +1,5 @@
+Pypdf
+docx2txt
+llama-index
+pyyaml
+llama-index-embeddings-openai
